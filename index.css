@@ -1,0 +1,9 @@
+.hard-qn{
+    color: rgb(235, 144, 40);
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: bisque;
+    width: fit-content;
+    padding: 2px;
+    border-radius: 10px;
+}
